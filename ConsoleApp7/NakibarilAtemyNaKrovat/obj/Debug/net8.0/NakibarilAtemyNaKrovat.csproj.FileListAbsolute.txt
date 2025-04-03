@@ -1,0 +1,42 @@
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.exe
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.deps.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.runtimeconfig.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\refint\NakibarilAtemyNaKrovat.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\ref\NakibarilAtemyNaKrovat.dll
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.exe
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.deps.json
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.runtimeconfig.json
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.dll
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.pdb
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.AssemblyInfoInputs.cache
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.AssemblyInfo.cs
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.dll
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\refint\NakibarilAtemyNaKrovat.dll
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.pdb
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.genruntimeconfig.cache
+F:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\ref\NakibarilAtemyNaKrovat.dll
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.exe
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.deps.json
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.runtimeconfig.json
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.dll
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\bin\Debug\net8.0\NakibarilAtemyNaKrovat.pdb
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.AssemblyInfoInputs.cache
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.AssemblyInfo.cs
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.dll
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\refint\NakibarilAtemyNaKrovat.dll
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.pdb
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\NakibarilAtemyNaKrovat.genruntimeconfig.cache
+D:\ОП\Практика №7\NakibarilAtemyNaKrovat\NakibarilAtemyNaKrovat\obj\Debug\net8.0\ref\NakibarilAtemyNaKrovat.dll
