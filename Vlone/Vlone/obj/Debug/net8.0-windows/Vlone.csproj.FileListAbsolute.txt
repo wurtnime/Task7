@@ -1,0 +1,38 @@
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.exe
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.deps.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.runtimeconfig.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone_MarkupCompile.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.g.resources
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\refint\Vlone.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Vlone\Vlone\obj\Debug\net8.0-windows\ref\Vlone.dll
+F:\ОП\Практика №7\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.exe
+F:\ОП\Практика №7\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.deps.json
+F:\ОП\Практика №7\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.runtimeconfig.json
+F:\ОП\Практика №7\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.dll
+F:\ОП\Практика №7\Vlone\Vlone\bin\Debug\net8.0-windows\Vlone.pdb
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\MainWindow.baml
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\App.g.cs
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone_MarkupCompile.cache
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.g.resources
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.AssemblyInfoInputs.cache
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.AssemblyInfo.cs
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.dll
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\refint\Vlone.dll
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.pdb
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\Vlone.genruntimeconfig.cache
+F:\ОП\Практика №7\Vlone\Vlone\obj\Debug\net8.0-windows\ref\Vlone.dll
